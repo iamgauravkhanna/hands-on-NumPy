@@ -1,0 +1,9 @@
+python3 -m venv numpy_env
+
+source numpy_env/bin/activate
+
+pip3 install ipython
+
+pip3 install pandas
+
+pip3 install jupyter
